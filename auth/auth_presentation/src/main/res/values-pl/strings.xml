@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODO</string>
+
+    <string name="login">Zaloguj</string>
+    <string name="register">Zarejestruj</string>
+    <string name="go_to_login">Przejdź do logowania</string>
+    <string name="go_to_register">Przejdź do rejestracji</string>
+    <string name="email">E-mail</string>
+    <string name="password">Hasło</string>
+    <string name="hide_password">Ukryj hasło</string>
+    <string name="show_password">Pokaż hasło</string>
+    <string name="confirm_password">Powtórz hasło</string>
+
+    <string name="invalid_email">Błędny adres e-mail</string>
+    <string name="empty_email">E-mail nie może być pusty</string>
+    <string name="empty_password">Hasło nie może być puste</string>
+</resources>

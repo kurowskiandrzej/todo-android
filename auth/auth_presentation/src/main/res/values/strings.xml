@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODO</string>
+
+    <string name="login">Login</string>
+    <string name="register">E-mail</string>
+    <string name="go_to_login">Go to login</string>
+    <string name="go_to_register">Go to register</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="confirm_password">Confirm password</string>
+
+    <string name="invalid_email">Invalid e-mail address</string>
+    <string name="empty_email">E-mail field cannot be empty</string>
+    <string name="empty_password">Password field cannot be empty</string>
+</resources>

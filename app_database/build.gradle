@@ -1,0 +1,15 @@
+apply {
+    from("$rootDir/base-module.gradle")
+}
+
+dependencies {
+
+    // Modules
+    "implementation"(project(Modules.core))
+    "implementation"(project(Modules.toDoDomain))
+
+    // Room
+    "kapt"(Room.roomCompiler)
+    "implementation"(Room.roomKtx)
+    "implementation"(Room.roomRuntime)
+}
